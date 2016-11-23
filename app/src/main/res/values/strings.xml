@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndoirdIOSPicker</string>
+
+    <string-array name="list">
+        <item>中华人民共和国万岁1</item>
+        <item>中华人民共和国万岁2</item>
+        <item>中华人民共和国万岁3</item>
+        <item>中华人民共和国万岁4</item>
+        <item>中华人民共和国万岁5</item>
+    </string-array>
+</resources>

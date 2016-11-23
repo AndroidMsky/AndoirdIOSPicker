@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">dialog-picker</string>
+
+    <string name="timepicker_year">年</string>
+    <string name="timepicker_month">月</string>
+    <string name="timepicker_day">日</string>
+    <string name="timepicker_hour">时</string>
+    <string name="timepicker_min">分</string>
+    <string name="timepicker_title">选择时间</string>
+    <string name="timepicker_finish">确认</string>
+    <string name="timepicker_title_default">设置</string>
+</resources>
